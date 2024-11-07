@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+        <!-- Sua chave da API do Google Maps -->
+    <string name="google_maps_api_key">AIzaSyBvHPUrRRYZQ0btebDPUSvXxn7wel8iEkA</string>
+
+</resources>
